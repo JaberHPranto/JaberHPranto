@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberhpranto&show_icons=true&locale=en&layout=compact" alt="jaberhpranto" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaberhpranto&show_icons=true&locale=en" alt="jaberhpranto" /></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaberhpranto&show_icons=true&locale=en" alt="jaberhpranto" /></p>
