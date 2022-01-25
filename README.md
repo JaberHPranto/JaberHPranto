@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and Node js**
 
-- 📫 How to reach me **jhpranto53@gmail.com**
+- 📫 How to reach me **jabearhossain@iut-dhaka.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
