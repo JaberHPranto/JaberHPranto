@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 🌏</h1>
+<h1 align="center">Hello World 👋</h1>
 <h4 align="center">I'm currently pursuing my Software Engineering degree at Islamic University of Technology. I love to build things for the web.I'm interested in learning about new technologies and experimenting with them. I like to play cricket, watch football and anime.</h3>
 
 
