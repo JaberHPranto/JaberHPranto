@@ -23,7 +23,3 @@
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaberhpranto&theme=onedark&show_icons=true&locale=en&layout=compact" alt="jaberhpranto" /></p>
 <p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=jaberhpranto&theme=onedark&show_icons=true&locale=en" alt="jaberhpranto" /></p>
 <br /><br /><br /><br /><br /><br /><br />
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-</details>  
