@@ -1,14 +1,14 @@
 <h1 align="center">Hello World 👋</h1>
-<h4 align="center">I'm currently pursuing my Software Engineering degree at Islamic University of Technology. I love to build things for the web.I'm interested in learning about new technologies and experimenting with them.</h3>
+<h4 align="center">I'm a front-end developer with a degree in Software Engineering from the Islamic University of Technology. I enjoy building clean, user-friendly web apps and love exploring new tools and technologies to keep things fresh and exciting. </h4>
 
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working as a **Frontend Developer**, focusing on **modern web technologies**
 
-- 🌱 I’m currently learning **React Native, Machine learning algorithms**
+- 🌱 I’m currently exploring **React Native** and diving deeper into **Generative AI**
 
-- 💬 Ask me about **React and Node js**
+- 💬 Ask me about **React, Next.js, and frontend architecture**
 
-- 📫 How to reach me **jabearhossain@iut-dhaka.edu**
+- 📫 How to reach me **jhpranto53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
